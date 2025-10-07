@@ -1,0 +1,5 @@
+console.log("Bianca Bertinato")
+console.log("SCH3UR Chemistry")
+console.log("ICS3UV Computer Science")
+console.log("HRT3MI World Religion")
+console.log("SPH3UR Physics")
